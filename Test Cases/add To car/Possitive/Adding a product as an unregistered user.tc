@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adding a product as an unregistered user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64a1bf01-0b3a-480a-9455-e912024b8109</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adding multiple pieces of the same product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2255f86c-fd0f-4d7f-8757-ff3560a22587</testCaseGuid>
+</TestCaseEntity>

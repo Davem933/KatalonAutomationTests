@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registrace</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd3ec41f-4cd2-476e-9241-d2b5b535ad79</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.alza.cz/'</defaultValue>
+      <description></description>
+      <id>77a6af2c-bf7d-4541-bc46-c00698918fe7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'david.minari@seznam.cz'</defaultValue>
+      <description></description>
+      <id>983ad68a-6c45-4806-871b-a3d31f0365be</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

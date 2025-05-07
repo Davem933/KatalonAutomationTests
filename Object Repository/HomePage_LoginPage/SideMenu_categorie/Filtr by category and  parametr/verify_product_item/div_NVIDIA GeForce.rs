@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NVIDIA GeForce</name>
+   <tag></tag>
+   <elementGuidId>dc0583cb-c0fb-4c12-80e9-514f5778c737</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='selected-value-31602-239921487']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selected-value-31602-239921487 > div.valueName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selected-value-31602-239921487 >> internal:text=&quot;NVIDIA GeForce&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>999f3800-5423-4bc8-a9d1-456df58c0033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valueName</value>
+      <webElementGuid>afda42b8-cfae-4c13-bb33-8d53ec43b72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NVIDIA GeForce</value>
+      <webElementGuid>4240bf67-367c-46b4-82ed-8d7ec97f5728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selected-value-31602-239921487&quot;)/div[@class=&quot;valueName&quot;]</value>
+      <webElementGuid>d71eddd8-eccc-433b-be34-0c18fd49dfb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selected-value-31602-239921487']/div</value>
+      <webElementGuid>849ae222-aeca-4ff2-8692-c27042570b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Značka grafické karty'])[2]/following::div[3]</value>
+      <webElementGuid>042203b7-8df9-44b9-8bab-63a5f8c8293c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Herní PC do 25 000 Kč'])[2]/following::div[25]</value>
+      <webElementGuid>63efcefb-3bc0-4b87-9203-7edb7b7c0cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Řada procesoru'])[2]/preceding::div[1]</value>
+      <webElementGuid>22d66294-086a-4c8e-918a-fe215ed12512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMD Ryzen 5'])[2]/preceding::div[1]</value>
+      <webElementGuid>0248a7b9-1685-489a-851f-9927cc34e9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div/div</value>
+      <webElementGuid>c508c80d-7ecf-4db9-9192-8c586a8d031a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NVIDIA GeForce' or . = 'NVIDIA GeForce')]</value>
+      <webElementGuid>06718b77-baf2-427f-b51b-942844f707e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

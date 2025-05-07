@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Pihlen</name>
+   <tag></tag>
+   <elementGuidId>22011aa0-8ac5-4a16-bdfb-f75c32dc4e25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Použijte stejné přihlašovací údaje jako do účtu Moje Alza.'])[1]/preceding::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Přihlášení&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>965493ad-c8e8-475c-a03b-20e863160e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Přihlášení</value>
+      <webElementGuid>6d963b76-d8a2-4386-b36c-8c9aa343b5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;mobile-top&quot;]/body[@class=&quot;bg-blue&quot;]/div[@class=&quot;container-fluid px-0 layout h-100&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center h-100&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center login-container&quot;]/form[@class=&quot;login-wrapper d-flex flex-column justify-content-between bordered needs-validation&quot;]/div[@class=&quot;login-body&quot;]/div[@class=&quot;login-title&quot;]/h1[1]</value>
+      <webElementGuid>698de490-ecd6-45ed-9c85-d3dbf517b249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Použijte stejné přihlašovací údaje jako do účtu Moje Alza.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>259872d5-bfa7-47b6-ac27-a8c900464e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fb03aaab-506c-4b7c-a122-43360fa04250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Přihlášení']/parent::*</value>
+      <webElementGuid>fe9264f8-140f-4575-b466-abec96854f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>f5f87ba0-7a70-4ea9-9418-cc8f37165bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Přihlášení' or . = 'Přihlášení')]</value>
+      <webElementGuid>92ad6c1a-5684-49de-a1d1-3b85240b5b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

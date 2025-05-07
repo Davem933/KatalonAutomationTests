@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nic jsme nenaeli pop-up</name>
+   <tag></tag>
+   <elementGuidId>d7e47f9e-00a8-4625-9578-501d753df620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='AlzaText header-alz-151 header-alz-154 header-alz-176'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[id=':Rcliq:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Nic jsme nenašliZkuste prosím hledaný výraz upravit$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19d77efc-55ab-433a-8b12-b02057ca8fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:Rcliq:</value>
+      <webElementGuid>d932ac38-2e18-4a5b-9a33-b469daa319ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-alz-137 header-alz-139</value>
+      <webElementGuid>3e545c4f-7eb6-4bc9-a65e-f9e4f1a59593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nic jsme nenašliZkuste prosím hledaný výraz upravit</value>
+      <webElementGuid>b8e3b815-6978-4135-ada2-2fca6b50e07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:Rcliq:&quot;)</value>
+      <webElementGuid>c0063ba9-cad6-4aac-b793-fb0fbb7b1cc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id=':Rcliq:']</value>
+      <webElementGuid>a2611538-e4f5-4c8b-9f71-6cacb5dee3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[2]/div/div/div/div/header/div[7]/div/div[2]</value>
+      <webElementGuid>8d6bdcbf-a508-488c-93f4-2120b2290a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušit'])[1]/following::div[1]</value>
+      <webElementGuid>f8942be1-64c1-4930-ba41-6d2212eddcc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hledat'])[1]/following::div[1]</value>
+      <webElementGuid>5ce896a5-9c3e-4701-bbf3-8312a2625e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div[7]/div/div[2]</value>
+      <webElementGuid>e0b52053-0b06-4858-b898-7f90d763533c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = ':Rcliq:' and (text() = 'Nic jsme nenašliZkuste prosím hledaný výraz upravit' or . = 'Nic jsme nenašliZkuste prosím hledaný výraz upravit')]</value>
+      <webElementGuid>6d2c2efa-b031-4fbf-9a4f-596e45cedcee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

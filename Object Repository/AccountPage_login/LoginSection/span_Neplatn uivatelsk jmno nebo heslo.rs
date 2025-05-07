@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Neplatn uivatelsk jmno nebo heslo</name>
+   <tag></tag>
+   <elementGuidId>c381f630-3af9-4fd6-9fae-46b1bf6d9b15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='loginButtonText']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#loginButtonText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Neplatné uživatelské jméno nebo heslo&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69ade2f2-5569-42dd-8b0b-c93d1b08066c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginButtonText</value>
+      <webElementGuid>232cbd45-5a89-4b43-a29d-51c76902b66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neplatné uživatelské jméno nebo heslo</value>
+      <webElementGuid>ea0b1f8e-2a1d-4387-8f6c-304a2de416b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginButtonText&quot;)</value>
+      <webElementGuid>6a215f04-aeed-4354-a220-ebb1c532005f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='loginButtonText']</value>
+      <webElementGuid>57c53ae0-9334-4d93-9067-b812591cdd53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnLogin']/span[2]</value>
+      <webElementGuid>d6683797-cdd9-4b93-82d7-facbb776135d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zadejte prosím heslo'])[1]/following::span[2]</value>
+      <webElementGuid>4bface75-22f6-4085-9cec-f06d5a332886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zapomenuté heslo?'])[1]/following::span[3]</value>
+      <webElementGuid>6cff671c-4047-466c-9f47-9458e4fa5509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Přihlásit přes'])[1]/preceding::span[1]</value>
+      <webElementGuid>c2c09bf5-a0f1-41f1-b2f5-a90e0aa60a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nová registrace'])[1]/preceding::span[1]</value>
+      <webElementGuid>692e3ebf-67bc-42e4-b84d-984b3f1ef03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neplatné uživatelské jméno nebo heslo']/parent::*</value>
+      <webElementGuid>bd4abd28-8825-478c-8ca5-31b464033853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>609a21b7-e339-4381-bcd0-633a9e8c70ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'loginButtonText' and (text() = 'Neplatné uživatelské jméno nebo heslo' or . = 'Neplatné uživatelské jméno nebo heslo')]</value>
+      <webElementGuid>33543d51-20e3-48f9-b5e4-2d2d8a7f6f3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Invalid Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c155a0f9-d576-4793-88b5-016e68a6afba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b7f5430-458d-4efd-bc10-5f0c80ec8f56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a1bd781-34f8-454a-84cb-e37a76fb21a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'david.minarik1995@gmail.com'</defaultValue>
+      <description></description>
+      <id>4b7f5430-458d-4efd-bc10-5f0c80ec8f56</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Qwertf993'</defaultValue>
+      <description></description>
+      <id>4a1bd781-34f8-454a-84cb-e37a76fb21a6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

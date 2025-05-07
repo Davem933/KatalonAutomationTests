@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Windows 11 Home</name>
+   <tag></tag>
+   <elementGuidId>a2dbeb52-51b5-44d2-a83f-afacae45557f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='selected-value-132-239842994']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selected-value-132-239842994 > div.valueName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selected-value-132-239842994 >> internal:text=&quot;Windows 11 Home&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c992cf0d-6149-4955-bba9-0d9e2c70948b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valueName</value>
+      <webElementGuid>d0880c50-8102-42ec-8cd9-91f103839c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Windows 11 Home</value>
+      <webElementGuid>1e12cb32-0a5a-4e78-8d00-71ab0d4e08c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selected-value-132-239842994&quot;)/div[@class=&quot;valueName&quot;]</value>
+      <webElementGuid>afd461bc-80a2-461d-bb3b-4b8ef9c12771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selected-value-132-239842994']/div</value>
+      <webElementGuid>9a09acbc-63f4-4f41-89f9-bd86319a4080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operační systém'])[2]/following::div[3]</value>
+      <webElementGuid>13accd0e-ccaa-4b37-ae00-e541502104d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMD Ryzen 5'])[2]/following::div[4]</value>
+      <webElementGuid>078b4b0d-bb3d-4e60-88af-e7911c3ef05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušit vybrané parametry'])[2]/preceding::div[1]</value>
+      <webElementGuid>5149bf9a-cfd8-4f54-808b-40a4ea55ba35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokračovat'])[1]/preceding::div[2]</value>
+      <webElementGuid>caa05ab4-150b-4df4-88dc-1132097a232f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[3]/div/div/div</value>
+      <webElementGuid>29ec7361-186e-4bd5-a3a0-68928248aee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Windows 11 Home' or . = 'Windows 11 Home')]</value>
+      <webElementGuid>a8a8e13f-a1c0-47db-a9c3-ce2214225d29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

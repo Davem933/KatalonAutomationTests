@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AMD Ryzen 5</name>
+   <tag></tag>
+   <elementGuidId>4573f709-4b53-4909-95fc-92309d84593c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='selected-value-170-172682']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selected-value-170-172682 > div.valueName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selected-value-170-172682 >> internal:text=&quot;AMD Ryzen 5&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>191bfd1c-3684-44ba-b893-d1814ea3e223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valueName</value>
+      <webElementGuid>6c6399c6-aaaa-480d-aedb-71bc2377a8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMD Ryzen 5</value>
+      <webElementGuid>7b13dd4e-13ea-499f-b07a-48e4bfd720f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selected-value-170-172682&quot;)/div[@class=&quot;valueName&quot;]</value>
+      <webElementGuid>9136aaf1-0357-425b-a9f3-72e41ac9af7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selected-value-170-172682']/div</value>
+      <webElementGuid>6e9bfd10-f743-461f-94ac-06ddce5e7845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Řada procesoru'])[2]/following::div[3]</value>
+      <webElementGuid>05800769-8cc7-4307-bfa8-7112749ec8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NVIDIA GeForce'])[2]/following::div[4]</value>
+      <webElementGuid>05ac32c2-97b2-47e8-a70e-d5e1efa1d044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operační systém'])[2]/preceding::div[1]</value>
+      <webElementGuid>ab9293dc-c2ef-4f36-994d-f02f88adce8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows 11 Home'])[2]/preceding::div[1]</value>
+      <webElementGuid>79e1a7ac-e441-420c-96b4-e5275fbc08d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]/div/div/div</value>
+      <webElementGuid>484d907d-2e03-4087-9c6f-aa41df8a3a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AMD Ryzen 5' or . = 'AMD Ryzen 5')]</value>
+      <webElementGuid>1ec95c0d-70ef-41df-b4dc-b194f3e1b9a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

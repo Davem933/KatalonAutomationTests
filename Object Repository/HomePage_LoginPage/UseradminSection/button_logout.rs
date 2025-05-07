@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_logout</name>
+   <tag></tag>
+   <elementGuidId>e905e470-3106-4579-ba4e-bcd04d873e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.header-alz-71.header-alz-72.header-alz-88.header-alz-167</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='rootHtml']/body/div[10]/div[3]/div/div/nav/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;headerNavigationLogout&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d20e0575-db22-4719-833e-137b52760854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>headerNavigationLogout</value>
+      <webElementGuid>773eebb1-4e45-4fc0-b11a-5ec55543ce0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-alz-71 header-alz-72 header-alz-88 header-alz-167</value>
+      <webElementGuid>998f13e7-f8e4-4738-8004-1436135ba8fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odhlásit se</value>
+      <webElementGuid>04bc2b30-b39f-4dd7-b789-7853206f51c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootHtml&quot;)/body[@class=&quot;default alza-cz alza&quot;]/div[@class=&quot;MuiPopover-root MuiModal-root header-31uu9d&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper header-1dmzujt&quot;]/div[@class=&quot;header-alz-37&quot;]/div[@class=&quot;header-alz-140&quot;]/nav[@class=&quot;header-alz-142&quot;]/div[@class=&quot;header-alz-165&quot;]/span[@class=&quot;header-alz-71 header-alz-72 header-alz-88 header-alz-167&quot;]</value>
+      <webElementGuid>85dedc53-5c1c-4dc6-977a-b9149d8957cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='rootHtml']/body/div[10]/div[3]/div/div/nav/div/span</value>
+      <webElementGuid>315a250c-d490-4ec7-8f23-b9f0a7516770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Napište nám'])[2]/following::span[1]</value>
+      <webElementGuid>9ad2f739-d281-49fc-bdfe-c0a8bee41ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moje knihovna'])[1]/following::span[2]</value>
+      <webElementGuid>6da77c87-527e-4378-8ed8-118d5beafa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alza pro firmy'])[1]/preceding::span[2]</value>
+      <webElementGuid>52cfa2f1-6dbf-4ee3-bc29-94cd4ab16e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/span</value>
+      <webElementGuid>e1098e5b-e950-4500-b9a9-018f66ea1ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Odhlásit se' or . = 'Odhlásit se')]</value>
+      <webElementGuid>6892c848-c370-465d-9082-cd86446e0ef3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

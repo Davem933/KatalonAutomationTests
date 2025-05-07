@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prerequisites: The user is on the main page of the e-shop&#xd;
+Testing steps:&#xd;
+&#xd;
+Verify that the search box is visible on the main page.&#xd;
+Click on the search box.&#xd;
+Enter any text and verify that the text displays correctly.&#xd;
+Expected result:&#xd;
+The search box is available and allows you to enter text.</description>
+   <name>Verify search box visibility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3ac2dd2-d638-48ae-b174-a3f3eedf7fda</testCaseGuid>
+</TestCaseEntity>

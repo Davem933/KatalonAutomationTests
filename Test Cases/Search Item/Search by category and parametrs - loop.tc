@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search by category and parametrs - loop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>875e30eb-4d31-43ae-ad0a-f519fef02c3f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adding a non-existent product (error in URL)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>902ca4fc-ec78-4776-9b04-4f28e6f85d8c</testCaseGuid>
+</TestCaseEntity>

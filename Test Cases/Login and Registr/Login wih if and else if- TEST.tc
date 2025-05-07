@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login wih if and else if- TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0827e6dd-a9d3-4739-8caf-f9d074317a5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95697de1-fee3-4ab5-9be5-06454124d4e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fd26a6b-05c4-4b89-bb67-d72d2ef1e229</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'david.minarik1993@gmail.com'</defaultValue>
+      <description></description>
+      <id>95697de1-fee3-4ab5-9be5-06454124d4e0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Qwertf993'</defaultValue>
+      <description></description>
+      <id>5fd26a6b-05c4-4b89-bb67-d72d2ef1e229</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
